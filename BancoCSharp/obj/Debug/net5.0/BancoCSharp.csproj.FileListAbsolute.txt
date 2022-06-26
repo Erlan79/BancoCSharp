@@ -1,0 +1,16 @@
+D:\Users\erlan\Documents\CSharp\BancoCSharp\BancoCSharp\bin\Debug\net5.0\BancoCSharp.exe
+D:\Users\erlan\Documents\CSharp\BancoCSharp\BancoCSharp\bin\Debug\net5.0\BancoCSharp.deps.json
+D:\Users\erlan\Documents\CSharp\BancoCSharp\BancoCSharp\bin\Debug\net5.0\BancoCSharp.runtimeconfig.json
+D:\Users\erlan\Documents\CSharp\BancoCSharp\BancoCSharp\bin\Debug\net5.0\BancoCSharp.runtimeconfig.dev.json
+D:\Users\erlan\Documents\CSharp\BancoCSharp\BancoCSharp\bin\Debug\net5.0\BancoCSharp.dll
+D:\Users\erlan\Documents\CSharp\BancoCSharp\BancoCSharp\bin\Debug\net5.0\ref\BancoCSharp.dll
+D:\Users\erlan\Documents\CSharp\BancoCSharp\BancoCSharp\bin\Debug\net5.0\BancoCSharp.pdb
+D:\Users\erlan\Documents\CSharp\BancoCSharp\BancoCSharp\obj\Debug\net5.0\BancoCSharp.csproj.AssemblyReference.cache
+D:\Users\erlan\Documents\CSharp\BancoCSharp\BancoCSharp\obj\Debug\net5.0\BancoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\erlan\Documents\CSharp\BancoCSharp\BancoCSharp\obj\Debug\net5.0\BancoCSharp.AssemblyInfoInputs.cache
+D:\Users\erlan\Documents\CSharp\BancoCSharp\BancoCSharp\obj\Debug\net5.0\BancoCSharp.AssemblyInfo.cs
+D:\Users\erlan\Documents\CSharp\BancoCSharp\BancoCSharp\obj\Debug\net5.0\BancoCSharp.csproj.CoreCompileInputs.cache
+D:\Users\erlan\Documents\CSharp\BancoCSharp\BancoCSharp\obj\Debug\net5.0\BancoCSharp.dll
+D:\Users\erlan\Documents\CSharp\BancoCSharp\BancoCSharp\obj\Debug\net5.0\ref\BancoCSharp.dll
+D:\Users\erlan\Documents\CSharp\BancoCSharp\BancoCSharp\obj\Debug\net5.0\BancoCSharp.pdb
+D:\Users\erlan\Documents\CSharp\BancoCSharp\BancoCSharp\obj\Debug\net5.0\BancoCSharp.genruntimeconfig.cache
