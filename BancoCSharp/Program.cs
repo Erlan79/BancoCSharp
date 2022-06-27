@@ -1,4 +1,6 @@
-﻿using BancoCSharp.Models;
+﻿
+
+using BancoCSharp.Models;
 using System;
 
 namespace BancoCSharp
@@ -34,7 +36,7 @@ namespace BancoCSharp
             conta02.Sacar(100.0);
             conta02.Transferir(conta03, 100.0);
 
-            conta03.Sacar(25.0);
+            //conta03.Sacar(25.0);
 
             conta01.ImprimirExtrato();
             conta02.ImprimirExtrato();
