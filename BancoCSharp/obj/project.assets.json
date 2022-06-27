@@ -8,19 +8,24 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Erlã\\.nuget\\packages\\": {}
+    "C:\\Users\\erla.santos\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\erlan\\Documents\\CSharp\\BancoCSharp\\BancoCSharp\\BancoCSharp.csproj",
+      "projectUniqueName": "C:\\Users\\erla.santos\\source\\repos\\BancoCSharp\\BancoCSharp\\BancoCSharp.csproj",
       "projectName": "BancoCSharp",
-      "projectPath": "D:\\Users\\erlan\\Documents\\CSharp\\BancoCSharp\\BancoCSharp\\BancoCSharp.csproj",
-      "packagesPath": "C:\\Users\\Erlã\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\erlan\\Documents\\CSharp\\BancoCSharp\\BancoCSharp\\obj\\",
+      "projectPath": "C:\\Users\\erla.santos\\source\\repos\\BancoCSharp\\BancoCSharp\\BancoCSharp.csproj",
+      "packagesPath": "C:\\Users\\erla.santos\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\erla.santos\\source\\repos\\BancoCSharp\\BancoCSharp\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Erlã\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\erla.santos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace BancoCSharp.Models
 {
-    abstract class ContaBancaria
+    abstract class ContaBancaria //PAI
     {
        #region Atributos
 
@@ -24,7 +24,7 @@ namespace BancoCSharp.Models
             Saldo = saldoAbertura;
             DataAbertura = DateTime.Now;
 
-            Movimentacoes = new List<Movimentacao>()
+            Movimentacoes = new List<Movimentacao>() // Object initializer
             {
                 new Movimentacao(Enums.TipoMovimentacao.ABERTURA_CONTA, saldoAbertura)
             };
@@ -36,7 +36,7 @@ namespace BancoCSharp.Models
             Titular = titular;
             Saldo = 0;
             DataAbertura = DateTime.Now;
-            Movimentacoes = new List<Movimentacao>()
+            Movimentacoes = new List<Movimentacao>() // Object initializer
             {
                 new Movimentacao(Enums.TipoMovimentacao.ABERTURA_CONTA, Saldo)
             };
@@ -90,6 +90,7 @@ namespace BancoCSharp.Models
             }
 
             contaDestino.Depositar(valor);
+
             Saldo -= valor;
             Movimentacoes.Add(new Movimentacao(Enums.TipoMovimentacao.TRANSFERENCIA, valor));
 

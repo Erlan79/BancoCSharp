@@ -18,9 +18,9 @@ namespace BancoCSharp.Models
 
         public override void ImprimirExtrato()
         {
-            Console.WriteLine("*****************************************");
-            Console.WriteLine("********* Extrato Conta Corrente ********");
-            Console.WriteLine("*****************************************");
+            Console.WriteLine("*********************************************");
+            Console.WriteLine("*********** Extrato Conta Corrente **********");
+            Console.WriteLine("*********************************************");
             Console.WriteLine();
 
             Console.WriteLine("Gerado em: " + DateTime.Now);
@@ -29,10 +29,12 @@ namespace BancoCSharp.Models
             {
                 Console.WriteLine(movimentacao.ToString());
             }
+            Console.WriteLine("Saldo atual:  R$" + Saldo);
             Console.WriteLine();
-            Console.WriteLine("*****************************************");
-            Console.WriteLine("************ Fim do extrato *************");
-            Console.WriteLine("*****************************************");
+
+            Console.WriteLine("********************************************");
+            Console.WriteLine("************** Fim do extrato **************");
+            Console.WriteLine("********************************************");
             Console.WriteLine();
         }
     }

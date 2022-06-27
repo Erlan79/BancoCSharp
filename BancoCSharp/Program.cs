@@ -9,9 +9,9 @@ namespace BancoCSharp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("*****************************************");
-            Console.WriteLine("*************** Banco CSharp ************");
-            Console.WriteLine("*****************************************");
+            Console.WriteLine("*********************************************************");
+            Console.WriteLine("********************** Banco CSharp *********************");
+            Console.WriteLine("*********************************************************");
             Console.WriteLine();
 
 
@@ -27,14 +27,15 @@ namespace BancoCSharp
             var titular03 = new Titular("Bruce Lee", "98765432112", "71985741255", endereco);
 
             var conta01 = new ContaCorrente(titular01, 100.0);
-            var conta02 = new ContaPoupanca(titular02, 300.0);
-            var conta03 = new ContaInvestimento(titular03, 500.0);
+            var conta02 = new ContaInvestimento(titular02);
+            var conta03 = new ContaPoupanca(titular02);
 
             conta01.Depositar(50.0);
 
             conta02.Depositar(500.0);
             conta02.Sacar(100.0);
             conta02.Transferir(conta03, 100.0);
+
 
             //conta03.Sacar(25.0);
 

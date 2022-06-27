@@ -13,7 +13,7 @@ Fomos  contratados para criar um sistema bancário onde fosse possível criar as
 9º Cada tipo de conta possa implementar de forma diferente o método ImprimirExtrato. OK
 10º Ser possível visualizar as movimentações bancárias.
 	10.1 Uma classe que represente a minha movimentação bancária. OK
-	10.2 Uma lista para armazenar essas movimentações. 
-	10.3 Uma forma simples de saber qual o tipo da movimentação.
-	10.4 Um layout para apresentar a movimentação quando for pedida.
-	10.5 Criar uma lógica para mostrar o layout.
+	10.2 Uma lista para armazenar essas movimentações. OK
+	10.3 Uma forma simples de saber qual o tipo da movimentação. OK
+	10.4 Um layout para apresentar a movimentação quando for pedida. OK
+	10.5 Criar uma lógica para mostrar o layout. OK
